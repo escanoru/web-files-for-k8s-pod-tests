@@ -1,2 +1,2 @@
-Web files for k8s to test gitRepo volumes
-=========================================
+Web files to test gitRepo volumes on K8s pods
+=============================================
